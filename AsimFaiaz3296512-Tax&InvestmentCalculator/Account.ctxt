@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Account
+comment1.params=
+comment1.target=Account()
+comment2.params=
+comment2.target=double\ getRate()
+comment3.params=inputRate
+comment3.target=void\ setRate(double)
+comment4.params=
+comment4.target=int\ getnumberOfWeeks()
+comment5.params=inputNOW
+comment5.target=void\ setnumberOfWeeks(int)
+comment6.params=
+comment6.target=double\ getAmount()
+comment7.params=checkAmount
+comment7.target=void\ setAmount(double)
+comment8.params=
+comment8.target=java.lang.String\ calcInvestment()
+comment8.text=\r\n\ Description\:\ This\ method\ is\ aimed\ to\ calculate\ the\ investment\ using\ the\ user\ input\r\n
+numComments=9
